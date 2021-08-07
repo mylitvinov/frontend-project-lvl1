@@ -5,8 +5,16 @@
 
 
 ##### Brain games
+* [brain-even](#brain-even)
+* [brain-calc](#brain-calc)
 
 ### brain-even demo ( [to contents](#contents) ) <a name="brain-even"></a>
 Determination of an even number.
 
 [![asciicast](https://asciinema.org/a/X2pH415euEOlZQWBEGLlX0JcL.svg)](https://asciinema.org/a/X2pH415euEOlZQWBEGLlX0JcL)
+
+---
+
+### brain-calc demo ( [to contents](#contents) ) <a name="brain-calc"></a>
+Calculator. Arithmetic expressions to be evaluated.
+[![asciicast](https://asciinema.org/a/429437.svg)](https://asciinema.org/a/429437)
