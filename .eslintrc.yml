@@ -11,6 +11,8 @@ rules:
   import/extensions: 0 # FIXME: remove when rule will be adjusted for new nodejs version
   linebreak-style: 0
   indent: 0
+  no-nested-ternary: 0
+
   
   
 
