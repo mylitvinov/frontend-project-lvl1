@@ -7,6 +7,8 @@
 ##### Brain games
 * [brain-even](#brain-even)
 * [brain-calc](#brain-calc)
+* [brain-gcd](#brain-gcd)
+
 
 ### brain-even demo ( [to contents](#contents) ) <a name="brain-even"></a>
 Determination of an even number.
