@@ -18,3 +18,9 @@ Determination of an even number.
 ### brain-calc demo ( [to contents](#contents) ) <a name="brain-calc"></a>
 Calculator. Arithmetic expressions to be evaluated.
 [![asciicast](https://asciinema.org/a/429437.svg)](https://asciinema.org/a/429437)
+
+---
+
+### brain-gcd demo ( [to contents](#contents) ) <a name="brain-gcd"></a>
+Determination of the greatest common factor.
+[![asciicast](https://asciinema.org/a/M46oL5KXL1Bq6Pe8ZlfAsFS13.svg)](https://asciinema.org/a/M46oL5KXL1Bq6Pe8ZlfAsFS13)
