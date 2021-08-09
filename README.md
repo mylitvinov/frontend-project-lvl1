@@ -8,6 +8,7 @@
 * [brain-even](#brain-even)
 * [brain-calc](#brain-calc)
 * [brain-gcd](#brain-gcd)
+* [brain-progression](#brain-progression)
 
 
 ### brain-even demo ( [to contents](#contents) ) <a name="brain-even"></a>
@@ -26,3 +27,9 @@ Calculator. Arithmetic expressions to be evaluated.
 ### brain-gcd demo ( [to contents](#contents) ) <a name="brain-gcd"></a>
 Determination of the greatest common factor.
 [![asciicast](https://asciinema.org/a/M46oL5KXL1Bq6Pe8ZlfAsFS13.svg)](https://asciinema.org/a/M46oL5KXL1Bq6Pe8ZlfAsFS13)
+
+---
+
+### brain-progression demo ( [to contents](#contents) ) <a name="brain-progression"></a>
+Progression. Search for missing numbers in a sequence of numbers.
+[![asciicast](https://asciinema.org/a/NHlOdABu9hto7PRjbH9sje1qx.svg)](https://asciinema.org/a/NHlOdABu9hto7PRjbH9sje1qx)
