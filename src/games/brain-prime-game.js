@@ -13,11 +13,12 @@ const isPrime = (number) => {
 };
 const getArrForGame = () => {
     const gameArr = [];
-    const question = `Question: ${getRandomNumber(1, 100)}`;
+    const question = getRandomNumber(1, 100);
+    const alarm = `Question: ${question}`;
     // console.log(question)
     const answer = isPrime(question) ? 'yes' : 'no';
     // console.log(answer);
-    gameArr.push(question);
+    gameArr.push(alarm);
     gameArr.push(answer);
     return gameArr;
 };
