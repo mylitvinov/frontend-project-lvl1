@@ -6,7 +6,7 @@ const isEven = (number) => (number % 2 === 0);
 
 const getArrForGame = () => {
     const gameArr = [];
-    const question = getRandomNumber(1, 500);
+    const question = `Question: ${getRandomNumber(1, 500)}`;
     gameArr.push(question);
     const answer = isEven(question) ? 'yes' : 'no';
     gameArr.push(answer);
