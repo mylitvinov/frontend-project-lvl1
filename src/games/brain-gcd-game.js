@@ -16,7 +16,7 @@ const getArrForGame = () => {
     const gameArr = [];
     const num1 = getRandomNumber(1, 20);
     const num2 = getRandomNumber(1, 15);
-    const alarm = `Question: ${num1}  ${num2}`;
+    const alarm = `Question: ${num1} ${num2}`;
     const findGcd = toFindGcd(num1, num2);
      // console.log(findGcd);
     gameArr.push(alarm);
