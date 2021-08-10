@@ -13,7 +13,7 @@ const isPrime = (number) => {
 };
 const getArrForGame = () => {
     const gameArr = [];
-    const question = getRandomNumber(1, 100);
+    const question = `Question: ${getRandomNumber(1, 100)}`;
     // console.log(question)
     const answer = isPrime(question) ? 'yes' : 'no';
     // console.log(answer);
