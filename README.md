@@ -9,6 +9,7 @@
 * [brain-calc](#brain-calc)
 * [brain-gcd](#brain-gcd)
 * [brain-progression](#brain-progression)
+* [brain-prime](#brain-prime)
 
 
 ### brain-even demo ( [to contents](#contents) ) <a name="brain-even"></a>
@@ -33,3 +34,12 @@ Determination of the greatest common factor.
 ### brain-progression demo ( [to contents](#contents) ) <a name="brain-progression"></a>
 Progression. Search for missing numbers in a sequence of numbers.
 [![asciicast](https://asciinema.org/a/NHlOdABu9hto7PRjbH9sje1qx.svg)](https://asciinema.org/a/NHlOdABu9hto7PRjbH9sje1qx)
+
+---
+
+### brain-prime demo ( [to contents](#contents) ) <a name="brain-prime"></a>
+Definition of a prime number.
+[![asciicast](https://asciinema.org/a/1M27HHQ0YAihfqPQQnhu4J4CM.svg)](https://asciinema.org/a/1M27HHQ0YAihfqPQQnhu4J4CM)
+
+
+---
